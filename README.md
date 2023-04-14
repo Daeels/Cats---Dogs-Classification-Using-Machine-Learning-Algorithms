@@ -6,7 +6,7 @@ This repository contains code for classifying images of cats and dogs using mach
 
 In this project, we explore the problem of image classification, specifically the task of distinguishing between images of cats and dogs. We explore several different machine learning algorithms for this task, including:
 
-- K Nearst Neighbor (KNN
+- K Nearst Neighbor (KNN)
 - Decision Trees
 
 We compare the performance of these algorithms using various metrics that you can find in the report.
